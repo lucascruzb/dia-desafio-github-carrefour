@@ -1,2 +1,2 @@
-# dia-desafio-github-carrefour
+# dia-desafio-github-carrefour-DIO
 desafio de projeto
